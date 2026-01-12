@@ -19,3 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - **API Integration:** Axios is used to fetch data from APIs. The fetched data is directly stored in the corresponding Redux slice and consumed from there.  
 - **Cart Logic:** All cart-related logic is handled within the Redux slice. This centralization ensures the cart remains secure and makes it easier to update business logic in the future.
 
+### You can view this project on vercel 
+
+View Project [https://e-comm-yash.vercel.app/] (https://e-comm-yash.vercel.app/)
